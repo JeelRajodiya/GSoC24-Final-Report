@@ -11,6 +11,7 @@
 | **LinkedIn**     | [Zeel Rajodiya](https://www.linkedin.com/in/zeel-rajodiya/)                                                                                              |
 | **Email**        | <a href="mailto:jeelrajodiyajeel@gmail.com">jeelrajodiyajeel@gmail.com</a>                                                                                         |
 
+
 ## Project Description 
 
 Tour of JSON Schema is an interactive guide for beginners to learn JSON Schema through examples and hands-on exercises. The project intends to help new users learn quickly and easily by taking them through step-by-step lessons on JSON Schema concepts and best practices. The platform has a simple interface and a built-in code editor, so users can learn by doing. Users will work with practical examples, validate their JSON Schema, and get feedback right away. By following carefully designed lessons and tasks, users will feel more confident in creating schemas.
