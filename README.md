@@ -44,4 +44,4 @@ Some minor changes in the content and UI are still required. I am planning to ma
 
 ## Challenges while working on the project
 
-Since I had little experience with technical writing, The biggest challenge for me . I had to learn JSON Schema from scratch and write content that is easy to understand for beginners. Along with that, I had to ensure that the content gets rendered using MDX on the server-side so we can have better SEO.
+Since I had little experience with technical writing, The biggest challenge for me was wirting the content for the tour. I had to learn JSON Schema from scratch and write content that is easy to understand for beginners. Along with that, I had to ensure that the content gets **rendered using MDX on the server-side** so we can have better SEO.
