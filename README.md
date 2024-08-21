@@ -40,7 +40,8 @@ The project is ready for production and deployed. It has started to get organic 
 
 ## What's left to do
 
-Some minor changes in the content and UI are still required. I am planning to maintain the project in the future.
+Some minor changes in the content and UI are still required. And there are some issues with SEO that need to be fixed.
+I am planning to maintain the project in the future.
 
 ## Challenges while working on the project
 
