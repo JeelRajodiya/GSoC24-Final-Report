@@ -10,6 +10,7 @@
 | :--------------- | :------------------------------------------------------------------------------------------- |
 | **Organisation** | [JSON Schema](https://json-schema.org/)                                                      |
 | **Project**      | [A Tour of JSON Schema](https://summerofcode.withgoogle.com/programs/2024/projects/zUHIbtvx) |
+| **Mentors**      | [Bence Eros](https://github.com/erosb) and [Benjamin Granados](https://github.com/benjagm)   |
 | **GitHub**       | [JeelRajodiya](https://github.com/JeelRajodiya)                                              |
 | **LinkedIn**     | [Zeel Rajodiya](https://www.linkedin.com/in/zeel-rajodiya/)                                  |
 | **Email**        | <a href="mailto:jeelrajodiyajeel@gmail.com">jeelrajodiyajeel@gmail.com</a>                   |
