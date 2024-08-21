@@ -41,9 +41,8 @@ The project is ready for production and deployed. It has started to get organic 
 
 ## What's left to do
 
-Some minor changes in the content and UI are still required. And there are some issues with SEO that need to be fixed.
-I am planning to maintain the project in the future.
+The content will be continuously improved and refined based on user test outcomes and analytical data. Additionally, there are some SEO issues that need to be addressed. I plan to maintain the project moving forward.
 
 ## Challenges while working on the project
 
-Since I had little experience with technical writing, The biggest challenge for me was writing the content for the tour. I had to learn JSON Schema from scratch and write content that is easy to understand for beginners. Along with that, I had to ensure that the content gets **rendered using MDX on the server-side** so we can have better SEO.
+Since I had limited experience with technical writing, the biggest challenge for me was creating the content for the tour. I had to learn JSON Schema from scratch and write content that is easy for beginners to understand. Additionally, I needed to ensure that the content was **rendered using MDX on the server-side** to improve SEO.
